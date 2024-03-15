@@ -1,1 +1,1 @@
-<img src="save-instagram.png">
+<img src="images/instagram.png">
